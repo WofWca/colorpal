@@ -1,9 +1,9 @@
 {
   "name": {
-    "message": "ColorPal: Color Picker & Eyedropper"
+    "message": "Color Matching Tool"
   },
   "description": {
-    "message": "Color picker, Eyedropper. Pick colour and gradient, HEX, RGB. Better than color pick, eye dropper, colour pick, colorzilla, geco."
+    "message": "A Chrome extension for effortlessly finding the right colours online"
   },
   "defaultTitle": {
     "message": "Click to open ColorPal"
